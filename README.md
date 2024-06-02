@@ -5,7 +5,7 @@
 
 ToxiCheck is a Google Chrome extension designed to detect cyberbullying and offer toxicity reports on comments, primarily on software developer websites such as GitHub. Additionally, ToxiCheck helps users avoid toxic language by suggesting gentler alternatives as they type.
 
-[Demo Video]()
+[Demo Video](https://youtu.be/wdOJUzeFAxo)
 
 ## Technical Details
 
@@ -20,11 +20,11 @@ UI:
 ## Flow Diagrams
 Working of the Bullying Classifier (Text Blurring Mechanism)
 
-![image]()
+![image](https://raw.githubusercontent.com/SachinSahu431/ToxiCheck/main/images/1.png)
 
 Working of the Autosuggestor (Suggestion Mechanism)
 
-![image]()
+![image](https://raw.githubusercontent.com/SachinSahu431/ToxiCheck/main/images/2.png)
 
 ## Major Features
 
